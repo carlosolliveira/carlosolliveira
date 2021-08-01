@@ -2,4 +2,4 @@
 ### Me...
 README in development
 - Favorite technologies<br>
-:snake: Python
+:snake: **Python**
